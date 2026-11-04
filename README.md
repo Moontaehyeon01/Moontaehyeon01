@@ -7,6 +7,7 @@
 호출어 모델을 직접 학습하고, 숫자로 재고, 배포까지 이어 붙이는 일을 좋아합니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moontaehyeon01.github.io-3b5bfd?style=for-the-badge)](https://moontaehyeon01.github.io)
+[![Email](https://img.shields.io/badge/Email-mthen@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:mthen@naver.com)
 
 </div>
 
@@ -18,7 +19,7 @@
 | --- | --- | --- | --- |
 | [**자비서 (JARVISEO)**](https://github.com/Mook-Industries/JARVISEO) | 안경에 카메라를 단 착용형 AI 비서. "자비서, 저거 뭐야?" 하면 본 장면을 음성으로 답함 | 호출어 커스텀 학습 · STT/TTS · 기억 검색(RAG) · 배포 | 2026.09 ~ 11 |
 | [**선행퀘스트 (Good Deed Quest)**](https://github.com/QuestismTeam/GoodDeedQuest) | 작은 선행을 퀘스트로. AI 추천 · 사진 인증 · 숏폼 영상 공익 플랫폼 앱 | LangGraph AI 숏폼 생성 파이프라인 · 배지 · 마이 페이지 | 2026.06 ~ 08 |
-| [**AI 실시간 통역 & 회의 어시스턴트**](https://github.com/201930425/If_Project) | 실시간 통역 + 회의 뒤 화자 분리 · 요약 웹 앱 | 실시간 음성 스트리밍 · Socket.IO 연동 | 2025.10 ~ 12 |
+| [**AI 실시간 통역 & 회의 어시스턴트**](https://github.com/201930425/If_Project) | 실시간 통역 + 회의 뒤 화자 분리 · 요약 웹 앱 | 초기 구조 · 실시간 음성 스트리밍 · Socket.IO 연동 · TTS | 2025.10 ~ 12 |
 
 ### 자비서에서 낸 숫자
 
