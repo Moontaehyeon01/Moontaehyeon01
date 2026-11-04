@@ -17,8 +17,8 @@
 
 | 프로젝트 | 한 줄 소개 | 담당 | 기간 |
 | --- | --- | --- | --- |
-| [**자비서 (JARVISEO)**](https://github.com/Mook-Industries/JARVISEO) | 안경에 카메라를 단 착용형 AI 비서. "자비서, 저거 뭐야?" 하면 본 장면을 음성으로 답함 | 호출어 직접 학습 · STT/TTS · 끼어들기 · 기억 검색(RAG) · AWS 배포 | 2026.09 ~ 11 |
-| [**선행퀘스트 (Good Deed Quest)**](https://github.com/QuestismTeam/GoodDeedQuest) | 작은 선행을 퀘스트로. AI 추천 · 사진 인증 · 숏폼 영상 공익 플랫폼 앱 ([팀 소개](https://github.com/QuestismTeam)) | LangGraph AI 숏폼 생성 파이프라인 · 배지 · 마이 페이지 | 2026.06 ~ 08 |
+| [**자비서 (JARVISEO)**](https://github.com/Mook-Industries/JARVISEO) | 안경에 카메라를 단 착용형 AI 비서. "자비서, 저거 뭐야?" 하면 본 장면을 음성으로 답함 ([팀 소개](https://github.com/Mook-Industries) · [발표 영상](https://youtu.be/3HMGT7gajqM)) | 호출어 직접 학습 · STT/TTS · 끼어들기 · 기억 검색(RAG) · AWS 배포 | 2026.09 ~ 11 |
+| [**선행퀘스트 (Good Deed Quest)**](https://github.com/QuestismTeam/GoodDeedQuest) | 작은 선행을 퀘스트로. AI 추천 · 사진 인증 · 숏폼 영상 공익 플랫폼 앱 ([팀 소개](https://github.com/QuestismTeam) · [발표 영상](https://youtu.be/8RYjzFgwSRk)) | LangGraph AI 숏폼 생성 파이프라인 · 배지 · 마이 페이지 | 2026.06 ~ 08 |
 | [**AI 실시간 통역 & 회의 어시스턴트**](https://github.com/201930425/If_Project) | 실시간 통역 + 회의 뒤 화자 분리 · 요약 웹 앱 | 초기 구조 · 실시간 음성 스트리밍 · Socket.IO 연동 · TTS | 2025.10 ~ 12 |
 
 ### 자비서에서 낸 숫자
@@ -26,7 +26,7 @@
 - 한국어 호출어 "자비서": 기성 모델 FRR **100% → 5.6%** (커스텀 학습 6회차), 비슷한 발음 FAR **5%**
 - 호출어 2단계 확인으로 TV 1시간 48분 최종 오탐 **0회**
 - 기억 질문 30개 중 지어낸 대답 **0개**
-- "잠깐만요" 뒤 대답까지 빈틈 **1000ms → 297ms**
+- "잠깐만요" 뒤 대답까지 빈틈 **1000ms → 297ms**, TTS 합성 도중 멈춤 10번 중 **6번 → 0번**
 
 ---
 
